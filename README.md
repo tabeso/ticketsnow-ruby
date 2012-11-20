@@ -1,6 +1,6 @@
-# Ticketsnow::Ruby
+# Ticketsnow-ruby
 
-TODO: Write a gem description
+gem to interface with the TicketsNow.com SOAP API
 
 ## Installation
 
